@@ -1,0 +1,18 @@
+[
+  {
+    "nome": "dede",
+    "pontos": 29,
+    "total": 93,
+    "percentual": 31.18,
+    "nivel": "BRONZE",
+    "data": "2025-12-10T14:02:56"
+  },
+  {
+    "nome": "andre",
+    "pontos": 6,
+    "total": 93,
+    "percentual": 6.45,
+    "nivel": "BRONZE",
+    "data": "2025-12-08T16:13:45"
+  }
+]
